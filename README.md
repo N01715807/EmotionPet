@@ -1,4 +1,4 @@
-# emotion-pet
+# emotionPet - Small practice projects for learning purposes.
 A command-line interactive emotional support pet that grows with your feelings. Built with Python and sentiment analysis.
 
 ## Notes
